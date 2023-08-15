@@ -3,7 +3,7 @@ I'm your tourguide, Henry and I've recently gained 15 lbs in exchange for comple
 
 Chemistry teacher turned software engineer. Not the most obvious transition but surprisingly shares similarities. Chemistry; form hypothesis for experiments -> test experiment 🧪 -> note results for future use/avoid/improve upon. Sounds like coding logic where you have to figure out how to go about a problem, then testing it; if it doesn't work; back to the drawing board or if it works; see how it can be improved upon time/space-wise.
 
-What drew me to pursue becoming a SWE was the fact that I liked solving problems and the fact that software engineering was constantly changing was basically an endless source of problems for free~
+What drew me to pursue/switch to becoming an SWE (besides the hazards of being a chemistry teacher in lab with potential incorrect mixing of chemicals/burning the room down) was the fact that I liked solving problems and the fact that software engineering was constantly changing was basically an endless source of problems for free~
 
 📚 currently learning python 🐍
 
